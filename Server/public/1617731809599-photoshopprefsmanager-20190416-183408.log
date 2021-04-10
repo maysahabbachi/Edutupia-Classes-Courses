@@ -1,0 +1,31 @@
+2019-04-16 18:34:08 : ----------- Starting Prefs Migration:  Adobe Phtotoshop CC 2019 Build 11  [2019\04\16 at 18:34:08] -----------
+2019-04-16 18:34:08 : Param [1] Received:  --migrationFlag=TRUE
+2019-04-16 18:34:08 : Param [2] Received:  --installDir=C:\Program Files\Adobe\Adobe Photoshop CC 2019
+2019-04-16 18:34:08 : Photoshop found at 'C:\Program Files\Adobe\Adobe Photoshop CC 2019'  Version obtained:  20.0.4.26077
+2019-04-16 18:34:08 : Checking Photoshop CC 2018 for prefs...
+2019-04-16 18:34:08 : Prefs not found for Photoshop CC 2018
+2019-04-16 18:34:08 : Checking Photoshop CC 2017 for prefs...
+2019-04-16 18:34:08 : Prefs not found for Photoshop CC 2017
+2019-04-16 18:34:08 : Checking Photoshop CC 2015.5 for prefs...
+2019-04-16 18:34:08 : Prefs not found for Photoshop CC 2015.5
+2019-04-16 18:34:08 : Checking Photoshop CC 2015 for prefs...
+2019-04-16 18:34:08 : Prefs not found for Photoshop CC 2015
+2019-04-16 18:34:08 : Checking Photoshop CC 2014 for prefs...
+2019-04-16 18:34:08 : Photoshop CC 2014 found.
+2019-04-16 18:34:08 : ---- Copy Files to C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings --------
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\Adobe Photoshop CC 2019 Prefs.psp
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\Default Type Styles.psp
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\LaunchEndFlag.psp
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\MachinePrefs.psp
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\MRUBrushes.psp
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\Préfs Format PNG.psp
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\SyncCollection.psp
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\UIPrefs.psp
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\Workspace Prefs.psp
+[COPY] C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2019\Adobe Photoshop CC 2019 Settings\WorkSpaces (Modified)\Essentials.psw
+
+2019-04-16 18:34:08 : [No action required] No files found:  C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2014\Presets
+2019-04-16 18:34:08 : [No action required] No files found:  C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2014\Optimized Colors
+2019-04-16 18:34:08 : [No action required] No files found:  C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2014\Optimized Output Settings
+2019-04-16 18:34:08 : [No action required] No files found:  C:\Users\loume\AppData\Roaming\Adobe\Adobe Photoshop CC 2014\Optimized Settings
+2019-04-16 18:34:08 : ------ Prefs Migration Complete:  2019\04\16 at 18:34:08 -----------
